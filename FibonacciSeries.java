@@ -16,7 +16,7 @@ public static void main(String args[])
         lhs.add("Geeks");
         lhs.add("Is");
         lhs.add("Very Johnson");
-        lhs.add("was");
+        lhs.add("wasxxxxx");
   
         // Traversing elements
         Iterator<String> itr = lhs.iterator();
